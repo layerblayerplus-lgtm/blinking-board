@@ -20,26 +20,16 @@ and how to render my pcb.
 
 <img width="1470" height="956" alt="Screenshot 2026-06-03 at 9 07 51 PM" src="https://github.com/user-attachments/assets/1358aaf0-d675-4875-a209-e5a643329487" />
 
-                                       BOM
-1. 1x NE555P https://www.digikey.ca/en/products/detail/texas-instruments/NE5534AP/378264?gclsrc=aw.ds&gad_source=4&gad_campaignid=17336435733&gbraid=0AAAAADrbLljDHfacCu98DnK46yYAiNN37&gclid=CjwKCAjw857RBhAgEiwAI-1yKCxYrpwuLAIqkdFffcmWrlOUvPUjZy6fNLhgflxf62_DjCdUeT-yBRoCY0oQAvD_BwE
 
-2. 1x CD4017 https://www.digikey.ca/en/products/detail/texas-instruments/CD4017BNSR/525881?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKEFHFKrDZmENSb6Irk_XqSna2J6SexJ6_dY74dbEH2ZHTAESL-auxhoCDvkQAvD_BwE
-
-3. 1x Conn_01x02_Socket https://www.digikey.ca/en/products/detail/harwin-inc/M50-3030242/7043990?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKOKAOM5ycakR_TIsvxZ-_LortzUTmvxOxrnKzlbsM__oUnLh41udrxoClSYQAvD_BwE
-
-4. 1x Conn_01x01_Socket https://www.digikey.ca/en/products/detail/3m/929870-01-01-RA/1239297?gclsrc=aw.ds&gad_source=1&gad_campaignid=20557660208&gbraid=0AAAAADrbLlghw5W8IU891OcnWO9k1tg4W&gclid=CjwKCAjw857RBhAgEiwAI-1yKGBakMZoKuv8ROv9sMHdHia73StzqqZ4MR1u3N-AI8TLJU2ulumzIxoC0OAQAvD_BwE
-
-5. 1x 1uF electrolytic capacitor https://canada.newark.com/multicomp-pro/mcrh63v105m5x11/aluminum-electrolytic-capacitor/dp/70K9783?&CMP=KNC-GCA-PMAX-SHOPPING-ONBOARD-COMP-Passives-NEW&gad_source=4&gad_campaignid=23072788681&gbraid=0AAAAAD5U_g3dmjRABjlUmhYrklgSELEmQ&gclid=CjwKCAjw857RBhAgEiwAI-1yKDafVkSZ6bSH6IqRWV6y1I__VvVVlMmQyR6a29TBU7ZBOuOQsFD6LBoCPIoQAvD_BwE
-
-   
-
-7. 1x 0.01 uF capacitor https://canada.newark.com/multicomp/mc0805y103m101a2-54mm/ceramic-capacitor-0-01uf-100v/dp/46P6661?&CMP=KNC-GCA-GEN-SHOPPING-PMAX-CLM-NCA-WF4799466&gad_source=4&gad_campaignid=23881382570&gbraid=0AAAAAD8yeHn4gXpNvGW_9arXEgFB-f0bE&gclid=CjwKCAjw857RBhAgEiwAI-1yKGyOpQkHTAFZOnUlkoaVHCC1gItcL47PEgV--doMpDf5_KtqjoYiPRoCuTsQAvD_BwE
-
-8. 1x 1k ohm resistor https://www.digikey.ca/en/products/detail/yageo/MFR-25FBF52-1K/13011
-
-9. 1x 470 ohm resistor https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT470R/1741440?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKGVDe_vsmDamDZs0RYLGy-P_LA1DTveZcQqoUFegQ9pAzUeBEfvqZRoCMYMQAvD_BwE
-
-10. 1x potentiometer https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K415K-503B/4699119?gclsrc=aw.ds&gad_source=1&gad_campaignid=20572521725&gbraid=0AAAAADrbLlgU80Fgg_ZZC3hnD8Q9Pdjic&gclid=CjwKCAjw857RBhAgEiwAI-1yKBkQoTf2LaBqW23FCYreyX4lMrzQ9FPcC1UHQ5OCIpLQ0JAP41y-YRoCH_cQAvD_BwE
-
-11. 10x LEDS https://ca.robotshop.com/products/led-assortment-set-25pk?gad_source=1&gad_campaignid=20159687494&gbraid=0AAAAAD_f_xy1iMiiwn_VorgSJIpXvRzDT&gclid=CjwKCAjw857RBhAgEiwAI-1yKJndrNXQRV32CD8v7o-xFeJOGVIy5UZixvlGWDBzWm7VK62wCOhYBBoC3u4QAvD_BwE
-    
+|Amount|Part                       |Link                                                                                                                                                                                                                                                                                                                                        |
+|------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|1x    |NE555P                     | https://www.digikey.ca/en/products/detail/texas-instruments/NE5534AP/378264?gclsrc=aw.ds&gad_source=4&gad_campaignid=17336435733&gbraid=0AAAAADrbLljDHfacCu98DnK46yYAiNN37&gclid=CjwKCAjw857RBhAgEiwAI-1yKCxYrpwuLAIqkdFffcmWrlOUvPUjZy6fNLhgflxf62_DjCdUeT-yBRoCY0oQAvD_BwE|
+|1x    | CD4017                    | https://www.digikey.ca/en/products/detail/texas-instruments/CD4017BNSR/525881?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKEFHFKrDZmENSb6Irk_XqSna2J6SexJ6_dY74dbEH2ZHTAESL-auxhoCDvkQAvD_BwE|
+|1x    | Conn_01x02_Socket         | https://www.digikey.ca/en/products/detail/harwin-inc/M50-3030242/7043990?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKOKAOM5ycakR_TIsvxZ-_LortzUTmvxOxrnKzlbsM__oUnLh41udrxoClSYQAvD_BwE|
+|1x    | Conn_01x01_Socket         | https://www.digikey.ca/en/products/detail/3m/929870-01-01-RA/1239297?gclsrc=aw.ds&gad_source=1&gad_campaignid=20557660208&gbraid=0AAAAADrbLlghw5W8IU891OcnWO9k1tg4W&gclid=CjwKCAjw857RBhAgEiwAI-1yKGBakMZoKuv8ROv9sMHdHia73StzqqZ4MR1u3N-AI8TLJU2ulumzIxoC0OAQAvD_BwE|
+|1x    | 1uF electrolytic capacitor| https://canada.newark.com/multicomp-pro/mcrh63v105m5x11/aluminum-electrolytic-capacitor/dp/70K9783?&CMP=KNC-GCA-PMAX-SHOPPING-ONBOARD-COMP-Passives-NEW&gad_source=4&gad_campaignid=23072788681&gbraid=0AAAAAD5U_g3dmjRABjlUmhYrklgSELEmQ&gclid=CjwKCAjw857RBhAgEiwAI-1yKDafVkSZ6bSH6IqRWV6y1I__VvVVlMmQyR6a29TBU7ZBOuOQsFD6LBoCPIoQAvD_BwE  |
+|1x    | 0.01 uF capacitor         | https://canada.newark.com/multicomp/mc0805y103m101a2-54mm/ceramic-capacitor-0-01uf-100v/dp/46P6661?&CMP=KNC-GCA-GEN-SHOPPING-PMAX-CLM-NCA-WF4799466&gad_source=4&gad_campaignid=23881382570&gbraid=0AAAAAD8yeHn4gXpNvGW_9arXEgFB-f0bE&gclid=CjwKCAjw857RBhAgEiwAI-1yKGyOpQkHTAFZOnUlkoaVHCC1gItcL47PEgV--doMpDf5_KtqjoYiPRoCuTsQAvD_BwE  |
+|1x    | 1k ohm resistor https     |://www.digikey.ca/en/products/detail/yageo/MFR-25FBF52-1K/13011|
+|1x    | 470 ohm resistor https    |://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT470R/1741440?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336435733&gbraid=0AAAAADrbLli9eV0U9YydH_Gi2Pu6vT9lb&gclid=CjwKCAjw857RBhAgEiwAI-1yKGVDe_vsmDamDZs0RYLGy-P_LA1DTveZcQqoUFegQ9pAzUeBEfvqZRoCMYMQAvD_BwE|
+|1x    | potentiometer             | https://www.digikey.ca/en/products/detail/bourns-inc/PDB181-K415K-503B/4699119?gclsrc=aw.ds&gad_source=1&gad_campaignid=20572521725&gbraid=0AAAAADrbLlgU80Fgg_ZZC3hnD8Q9Pdjic&gclid=CjwKCAjw857RBhAgEiwAI-1yKBkQoTf2LaBqW23FCYreyX4lMrzQ9FPcC1UHQ5OCIpLQ0JAP41y-YRoCH_cQAvD_BwE|
+|10x   | LEDS                      | https://ca.robotshop.com/products/led-assortment-set-25pk?gad_source=1&gad_campaignid=20159687494&gbraid=0AAAAAD_f_xy1iMiiwn_VorgSJIpXvRzDT&gclid=CjwKCAjw857RBhAgEiwAI-1yKJndrNXQRV32CD8v7o-xFeJOGVIy5UZixvlGWDBzWm7VK62wCOhYBBoC3u4QAvD_BwE                                                                                              |
