@@ -1,11 +1,12 @@
 # blinking-board
 I wanted to build this as i have never designed a pcb before 
 This is the first PCB I have designed It is a simple LED chaser board. with text saying MYFIRST PCB.
-i Learned a lot in this tutorial as i have never used any thing like kicad to design a pcb. 
+I Learned a lot in this tutorial as i have never used any thing like kicad to design a pcb. 
 I learned:
+how to design a schematic
 how to route diffrent components together on a pcb 
-how to genrate drill files 
-and how to render my pcb
+how to generate drill files 
+and how to render my pcb.
 
 
                                  schematic
