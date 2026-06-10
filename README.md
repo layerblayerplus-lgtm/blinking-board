@@ -1,6 +1,11 @@
 # blinking-board
+I wanted to build this as i have never designed a pcb before 
 This is the first PCB I have designed It is a simple LED chaser board. with text saying MYFIRST PCB.
-i Learned a lot in this tutorial as i have never used any thing like kicad to design a pcb
+i Learned a lot in this tutorial as i have never used any thing like kicad to design a pcb. 
+I learned:
+how to route diffrent components together on a pcb 
+how to genrate drill files 
+and how to render my pcb
 
 
                                  schematic
@@ -15,23 +20,23 @@ i Learned a lot in this tutorial as i have never used any thing like kicad to de
 <img width="1470" height="956" alt="Screenshot 2026-06-03 at 9 07 51 PM" src="https://github.com/user-attachments/assets/1358aaf0-d675-4875-a209-e5a643329487" />
 
                                        BOM
-1. NE555P (is the clock which make the led flash)
+1. 1x NE555P 
 
-2. CD4017 (connects NE555P to the LEDS)
+2. 1x CD4017 
 
-3. Conn_01x02_Socket(powers the circut)
+3. 1x Conn_01x02_Socket
 
-4. Conn_01x01_Socket (used for trouble shooting)
+4. 1x Conn_01x01_Socket
 
-5. electrolytic capacitor(used to put NE555P into astable mode (I think)
+5. 1x electrolytic capacitor
 
-6. capacitor (used to put NE555P into astable mode (I think)
+6. 1x capacitor 
 
-7. 1k ohm resistor (I DON'T REALLY KNOW)
+7. 1x 1k ohm resistor 
 
-8. 470 ohm resistor (makes sure the leds arent damaged by high current)
+8. 1x 470 ohm resistor 
 
-9. potentiometer (used to control rate at which the led flash)
+9. 1x potentiometer 
 
-10. 10 LEDS (the thing that flashes/ makes light)
+10. 10x LEDS 
     
