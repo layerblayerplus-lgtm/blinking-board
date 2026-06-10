@@ -1,5 +1,6 @@
 # blinking-board
-This is the first PCB I have designed(tutorial) It is a simple LED chaser board. with text saying MYFIRST PCB.
+This is the first PCB I have designed It is a simple LED chaser board. with text saying MYFIRST PCB.
+i Learned a lot in this tutorial as i have never used any thing like kicad to design a pcb
 <img width="690" height="596" alt="image" src="https://github.com/user-attachments/assets/81159333-7b9d-48ae-98b0-7cf5c635ee2e" />
 <img width="690" height="596" alt="image" src="https://github.com/user-attachments/assets/62fb5829-ef96-4138-9374-058f5b8bf942" />
 <img width="1271" height="832" alt="image" src="https://github.com/user-attachments/assets/65ca32d9-53eb-4782-a4c2-ca017a5211da" />
